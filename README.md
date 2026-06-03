@@ -50,6 +50,7 @@ The analysis provides insights into customer behavior and helps understand how d
 ## Conclusion
 
 Customer churn analysis is important for improving customer retention and business growth. This project demonstrates how data analysis techniques can be used to explore customer behavior and support data-driven decision making.
+
 <img width="569" height="450" alt="image" src="https://github.com/user-attachments/assets/c57811fb-8c4c-4603-ad02-3fc9f71a3f50" />
 <img width="569" height="435" alt="image" src="https://github.com/user-attachments/assets/d3e14937-77fb-4ebd-aaf6-b462a8ca445b" />
 <img width="551" height="435" alt="image" src="https://github.com/user-attachments/assets/c6c5518a-5132-4c30-a0c7-e74f4b936fc2" />
